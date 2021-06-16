@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/01 (2).jpg</file>
+        <file>img/02 (2).jpg</file>
+        <file>img/information-about-us-icon-16.png</file>
+        <file>img/icon.svg</file>
+        <file>img/warning.png</file>
+        <file>img/data-encryption-14-900101.webp</file>
+        <file>img/3.jpg</file>
+        <file>img/4.jpg</file>
+        <file>img/5.jpg</file>
+        <file>img/icon2.ico</file>
+    </qresource>
+</RCC>
