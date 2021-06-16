@@ -1,5 +1,5 @@
 # hide-text
-This program aims to hide text in text files, images and encrypt the text. 
+This program aims to hide text in text files, audio files, images and encrypt the text. 
 This is achieved by using Steganography, Cryptography and Encryption. 
 The UI is designed using QT Framework. 
 
